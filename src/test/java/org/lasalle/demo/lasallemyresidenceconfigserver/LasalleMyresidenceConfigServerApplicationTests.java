@@ -1,6 +1,6 @@
 package org.lasalle.demo.lasallemyresidenceconfigserver;
 
-import gitorg.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
